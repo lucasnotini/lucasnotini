@@ -20,7 +20,7 @@ I am also on my way to learn more about:
 - Angular
 - React
 - NodeJS
-- 
+
 ... and anything else that I need to use :grinning:
 
 
