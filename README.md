@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Lucas Notini 👋
+
+## 💻 About me:
+
+I have passion for creating and find solutions for life problems since a young age. 
+
+I use to say that if there's a solution to a problem, I will for sure find it :monocle_face:
+
+I am currently familiar with the following coding languages:
+
+- Javascript
+- MQL5
+- EasyLanguage
+- Python
+- CSS/HTML
+
 
 <!--
 **lucasnotini/lucasnotini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
