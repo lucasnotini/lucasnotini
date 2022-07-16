@@ -6,9 +6,11 @@ I have passion for creating solutions for life problems since a young age.
 
 I use to say that if there's a solution to a problem, I will for sure find it :monocle_face:
 
-I am currently familiar with the following coding languages:
+I am currently familiar with the following technologies:
 
-- Javascript
+- Javascript/Typescript
+- NodeJS
+- Angular
 - MQL5
 - EasyLanguage
 - Python
@@ -17,9 +19,7 @@ I am currently familiar with the following coding languages:
 I am also on my way to learn more about:
 
 - JAVA
-- Angular
 - React
-- NodeJS
 
 ... and anything else that I need to use :grinning:
 
