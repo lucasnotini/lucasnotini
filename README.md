@@ -15,6 +15,7 @@ I am currently familiar with the following technologies:
 - EasyLanguage
 - Python
 - CSS/HTML
+- Git/GitHub
 
 I am also on my way to learn more about:
 
