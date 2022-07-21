@@ -8,9 +8,10 @@ I use to say that if there's a solution to a problem, I will for sure find it :m
 
 I am currently familiar with the following technologies:
 
-- Javascript/Typescript
+
+- Java
+- Javascript/Typescript/Angular
 - NodeJS
-- Angular
 - MQL5
 - EasyLanguage
 - Python
@@ -19,7 +20,6 @@ I am currently familiar with the following technologies:
 
 I am also on my way to learn more about:
 
-- JAVA
 - React
 
 ... and anything else that I need to use :grinning:
