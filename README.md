@@ -9,7 +9,8 @@ I use to say that if there's a solution to a problem, I will for sure find it :m
 I am currently familiar with the following technologies:
 
 
-- Java
+- Java - Spring Boot
+- Sql Databases
 - Javascript/Typescript/Angular
 - NodeJS
 - MQL5
