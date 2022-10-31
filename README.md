@@ -12,7 +12,6 @@ I am currently familiar with the following technologies:
 - Java - Spring Boot
 - Sql Databases
 - Javascript/Typescript/Angular
-- NodeJS
 - MQL5
 - EasyLanguage
 - Python
