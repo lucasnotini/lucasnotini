@@ -17,6 +17,9 @@ I am currently familiar with the following technologies:
 - CSS/HTML
 - Git/GitHub
 
+Some of my projects that I like the most:
+- Python (django/pandas/streamlit) app to track trading strategies: https://orion-trade-manager.streamlit.app/
+
 I am on my way to learn more about:
 
 - /Angular
