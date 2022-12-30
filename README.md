@@ -14,7 +14,7 @@ I am currently familiar with the following technologies:
 - Javascript
 - MQL5
 - EasyLanguage
-- CSS/HTML
+- CSS - HTML - BOOTSTRAP
 - Git/GitHub
 
 Some of my projects that I like the most:
