@@ -6,19 +6,24 @@ I have passion for creating solutions for life problems since a young age.
 
 I use to say that if there's a solution to a problem, I will for sure find it :monocle_face:
 
-I am currently familiar with the following technologies:
-
-- Python - Django/Flask/Pandas
-- Java
+I'm good at:
+- Python - Django/Flask/Pandas/Streamlit/Matplotlib
+- Aws EC2
+- Oracle Cloud VMs
 - Sql Databases
-- Javascript
-- MQL5
-- EasyLanguage
 - CSS - HTML - BOOTSTRAP
 - Git/GitHub
 
+I am also currently familiar with the following technologies:
+- Java
+- Javascript
+- MQL5
+- EasyLanguage
+
+
 Some of my projects that I like the most:
-- Python (django/pandas/streamlit) app to track trading strategies: https://orion-trade-manager.streamlit.app/
+- Python (Django) Fullstack Investing company Website/Apps: www.oriontrading.com.br/
+- Python (streamlit) App to track trading strategies: https://orion-trade-manager.streamlit.app/
 
 I am on my way to learn more about:
 
