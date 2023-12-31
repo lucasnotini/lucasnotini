@@ -2,12 +2,11 @@
 
 ## 💻 About me:
 
-I have passion for creating solutions for life problems since a young age. 
-
-I use to say that if there's a solution to a problem, I will for sure find it :monocle_face:
+I am a Python programmer that has a passion for solving life's problems since a young age.
+I use to say that if there's a solution out there, I will for sure find it! :monocle_face:
 
 I'm good at:
-- Python - Django/Flask/Pandas/Streamlit/Matplotlib
+- Python - Django/Pandas/Streamlit/Matplotlib
 - Aws EC2
 - Oracle Cloud VMs
 - Sql Databases
@@ -15,19 +14,21 @@ I'm good at:
 - Git/GitHub
 
 I am also currently familiar with the following technologies:
+- Flask
 - Java
 - Javascript
 - MQL5
 - EasyLanguage
 
-
 Some of my projects that I like the most:
-- Python (Django) Fullstack Investing company Website/Apps: www.oriontrading.com.br/
-- Python (streamlit) App to track trading strategies: https://orion-trade-manager.streamlit.app/
+- Python (Django-Bootstrap) Fullstack Investing company Website/Apps: www.oriontrading.com.br/
+- Python (Django-Pandas) App to track trading strategies: https://www.oriontrading.com.br/trade-manager/
+- Python (Django-Pandas) App to run Monte Carlo simulations: https://www.oriontrading.com.br/monte-carlo/
+- Python (Django-Pandas) App to run multiple Money Management algoriths using different investiment strategies: https://www.oriontrading.com.br/money-management/
 
-I am on my way to learn more about:
+* If any of the above apps ask for a login credential, you can create a free account and access the links again :-)
 
-- /Angular
+I am currently searching for new challenges in Python:
 
 ... and anything else that I need to use :grinning:
 
