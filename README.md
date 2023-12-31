@@ -3,7 +3,7 @@
 ## 💻 About me:
 
 I am a Python programmer that has a passion for solving life's problems since a young age.
-I use to say that if there's a solution out there, I will for sure find it! :monocle_face:
+If there's a solution out there, I will for sure find it! :monocle_face:
 
 I'm good at:
 - Python - Django/Pandas/Streamlit/Matplotlib
@@ -13,7 +13,7 @@ I'm good at:
 - CSS - HTML - BOOTSTRAP
 - Git/GitHub
 
-I am also currently familiar with the following technologies:
+I am currently familiar with the following technologies:
 - Flask
 - Java
 - Javascript
@@ -27,6 +27,7 @@ Some of my projects that I like the most:
 - Python (Django-Pandas) App to run multiple Money Management algoriths using different investiment strategies: https://www.oriontrading.com.br/money-management/
 
 * If any of the above apps ask for a login credential, you can create a free account and access the links again :-)
+  
 
 I am currently searching for new challenges in Python:
 
