@@ -2,7 +2,7 @@
 
 ## 💻 About me:
 
-I am a Python programmer that has a passion for solving life's problems since a young age.
+I am a self-taught Python programmer that has a passion for solving life's problems since a young age.
 If there's a solution out there, I will for sure find it! :monocle_face:
 
 I'm good at:
