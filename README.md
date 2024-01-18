@@ -12,6 +12,7 @@ I'm good at:
 - Sql Databases
 - CSS - HTML - BOOTSTRAP
 - Git/GitHub
+- Docker
 
 I am currently familiar with the following technologies:
 - Flask
