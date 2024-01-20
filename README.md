@@ -6,7 +6,10 @@ I am a self-taught Python programmer that has a passion for solving life's probl
 If there's a solution out there, I will for sure find it! :monocle_face:
 
 I'm good at:
-- Python - Django/Pandas/Streamlit/Matplotlib
+- Python 
+- Django / Django Rest Framework
+- Pandas/Streamlit/Matplotlib
+- Rest APIs
 - Aws EC2
 - Oracle Cloud VMs
 - Sql Databases
@@ -14,7 +17,7 @@ I'm good at:
 - Git/GitHub
 - Docker
 
-I am currently familiar with the following technologies:
+I am familiar with the following technologies:
 - Flask
 - Java
 - Javascript
