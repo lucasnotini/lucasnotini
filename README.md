@@ -2,7 +2,7 @@
 
 ## 💻 About me:
 
-I am a self-taught Python programmer that has a passion for solving life's problems since a young age.
+I am a self-taught programmer that has a passion for solving life's problems since a young age.
 If there's a solution out there, I will for sure find it! :monocle_face:
 
 Technologies that I use:
@@ -12,13 +12,14 @@ Technologies that I use:
 - Rest APIs
 - Aws EC2
 - Oracle Cloud VMs
-- Sql Databases
+- Sql Databases - Postgres, MySQL
 - CSS - HTML - BOOTSTRAP
 - Git/GitHub
 - Docker
 
 I am familiar with the following technologies:
 - Flask
+- PHP
 - Java
 - Javascript
 - MQL5
