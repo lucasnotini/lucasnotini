@@ -18,8 +18,8 @@ Technologies that I use:
 - Docker
 
 I am familiar with the following technologies:
-- Flask
 - PHP
+- Flask
 - Java
 - Javascript
 - MQL5
