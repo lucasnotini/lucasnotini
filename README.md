@@ -8,7 +8,7 @@ If there's a solution out there, I will for sure find it! :monocle_face:
 Technologies that I use:
 - Python 
 - Django / Django Rest Framework
-- Pandas/Streamlit/Matplotlib
+- Pandas/Streamlit/Matplotlib/Beautiful Soup
 - Rest APIs
 - Aws EC2
 - Oracle Cloud VMs
